@@ -1,0 +1,61 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    font-size: 16px;
+   
+}
+.young-serif-regular {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+    margin-top: 100px;
+    width: 800px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    display: grid;
+    margin: 0 auto;
+    display: block;
+    padding: 30px 30px;
+}
+.container img {
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+
+.div1{
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 5px;
+    padding: 15px;
+}
+
+h2{
+    color: hsl(14, 45%, 36%);
+}
+h3{
+    color: hsl(332, 51%, 32%);
+}
+li{
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+li::marker{
+    color: hsl(14, 45%, 36%);
+}
+
+
+table{
+    width: 100%;
+    line-height: 40px;
+}
+td{
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+.right{
+    color:hsl(14, 45%, 36%);
+    font-weight: 600;
+}
